@@ -1,0 +1,51 @@
+﻿
+<!-- Daniel Garson
+    Due: 4/27/18
+    CIS 237->
+
+@{
+    ViewBag.Title = "About the Assignment";
+
+    <!-- inline styles center text of title and make the color green-->
+}
+<h2 style="text-align:center; color:green;">@ViewBag.Title.</h2><br/>
+
+<!-- inline styles justify text alignment and prints the entire assignment description-->
+<p style="text-align:justify;">You are to create a web application using ASP.NET MVC to manage our beverage database. The application should have the following pages and navigation:<br /><br />
+
+A Home page that is not the default. A Contact page that is not the default. A About page that is not the default. A Beverages page that can only be seen when the user is logged in. Other CRUD related pages to augment the Beverages page. All of the built in user account pages.<br /><br />
+
+Every view must use a Master Layout file for the things that do not change.<br /><br />
+
+The Home page should have a nice welcome page that helps a new user figure out how to use the site without being as overly detailed as the About page. This will more or less be a static page.<br /><br />
+
+The Contact Page should provide a way for users of the site to contact you if they have questions or concerns about the site. This will also be more or less be a static page.<br /><br />
+
+The About Page should include some information about the purpose of the application and how to use the application for people who have never been to the site. This will also be more or less a static page.<br /><br />
+
+The Beverages page is where the main focus of the site should be.<br /><br />
+
+Once a user is registered and logged in, they will be able to see navigation links to reach this page. If they try to navigate directly to this page without being logged in, it should redirect them to the home page.<br /><br />
+
+The Beverages page should list all of the beverages stored in the same database as what was used for assignment 5. The information to connect is listed below in case you forgot. In addition to the page displaying the list of items, there should be links for each item that allows the user to update or delete a specific item from the list. This will require the creation of additional pages to implement the functionality.<br /><br />
+
+There should also be a way to create a new item to be added to the beverages database. This will require an additional page to implement the functionality.
+
+At the top of the Beverages list page there should be a filter that can be used to filter the contents of the beverages list. Filter fields should include Name, Pack, Min Price, and Max Price. There should be a button in the filter section to submit the filter. Submitting the filter will cause the application to store the filter information in the session, and then use that information to display a filtered version of the data in the database.<br /><br />
+
+It is okay to use scaffolding to create Views, however you may need to then go in and tweak Views to add more functionality to them. (Filter)
+
+The Login information for users will be stored in a localdb, and the Beverage information will be stored in the same remote database we used in the previous assignment. Just so it is clear, the application will be using 2 databases.
+
+The EntityFramework Models that are created for the Beverages, and the ones that .NET provides for user authentication will make up the Models portion of MVC.<br /><br />
+
+You must create your own Controller for handling the work of maintaining the Beverages and dealing with any pages related to maintaining the beverages. This will be the Controller portion of MVC.
+
+You must create any Views that you need to for handling the work of maintain the Beverages. This includes the list of beverages and views to add, update, and delete. This will be the View portion of MVC.
+
+When creating a new beverage, the user must be able to enter in the id for the beverage. When updating a beverage, the user should NOT enter in the id. Since the id is a primary key, users should be unable to change that. The list of updatable fields are as follows:<br /><br />
+
+1. Description<br />
+2. Pack<br />
+3. Pack<br />
+4. Active</p>
