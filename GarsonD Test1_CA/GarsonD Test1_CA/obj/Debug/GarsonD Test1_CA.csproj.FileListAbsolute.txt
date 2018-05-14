@@ -1,0 +1,5 @@
+O:\CIS 207\GarsonD Test1_CA\GarsonD Test1_CA\bin\Debug\GarsonD Test1_CA.exe.config
+O:\CIS 207\GarsonD Test1_CA\GarsonD Test1_CA\bin\Debug\GarsonD Test1_CA.exe
+O:\CIS 207\GarsonD Test1_CA\GarsonD Test1_CA\bin\Debug\GarsonD Test1_CA.pdb
+O:\CIS 207\GarsonD Test1_CA\GarsonD Test1_CA\obj\Debug\GarsonD Test1_CA.exe
+O:\CIS 207\GarsonD Test1_CA\GarsonD Test1_CA\obj\Debug\GarsonD Test1_CA.pdb

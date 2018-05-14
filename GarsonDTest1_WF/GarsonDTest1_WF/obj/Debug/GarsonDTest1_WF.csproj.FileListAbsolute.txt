@@ -1,0 +1,9 @@
+O:\CIS 207\GarsonDTest1_WF\GarsonDTest1_WF\bin\Debug\GarsonDTest1_WF.exe.config
+O:\CIS 207\GarsonDTest1_WF\GarsonDTest1_WF\bin\Debug\GarsonDTest1_WF.exe
+O:\CIS 207\GarsonDTest1_WF\GarsonDTest1_WF\bin\Debug\GarsonDTest1_WF.pdb
+O:\CIS 207\GarsonDTest1_WF\GarsonDTest1_WF\obj\Debug\GarsonDTest1_WF.csprojResolveAssemblyReference.cache
+O:\CIS 207\GarsonDTest1_WF\GarsonDTest1_WF\obj\Debug\GarsonDTest1_WF.Form1.resources
+O:\CIS 207\GarsonDTest1_WF\GarsonDTest1_WF\obj\Debug\GarsonDTest1_WF.Properties.Resources.resources
+O:\CIS 207\GarsonDTest1_WF\GarsonDTest1_WF\obj\Debug\GarsonDTest1_WF.csproj.GenerateResource.Cache
+O:\CIS 207\GarsonDTest1_WF\GarsonDTest1_WF\obj\Debug\GarsonDTest1_WF.exe
+O:\CIS 207\GarsonDTest1_WF\GarsonDTest1_WF\obj\Debug\GarsonDTest1_WF.pdb

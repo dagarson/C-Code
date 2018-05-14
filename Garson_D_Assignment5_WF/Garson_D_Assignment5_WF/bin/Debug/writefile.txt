@@ -1,0 +1,20 @@
+Patient Number      Treatment Plan Number      Number of months on treatment plan      Number of treatments      Patient Age   
+1111                         1                                          9                                                            8                                           65
+2222                         1                                        10                                                            8                                          35
+3333                         1                                        19                                                            29                                        32
+4444                         1                                        29                                                            33                                        39
+5555                         2                                        59                                                            18                                        18
+6666                         1                                        39                                                            54                                        55
+7777                         1                                        49                                                            18                                       22
+8888                         1                                        25                                                            33                                       70
+9999                         2                                        38                                                            54                                       44
+1010                         1                                        10                                                            29                                       44
+2020                         1                                        20                                                            33                                       21
+3030                         1                                        30                                                            54                                       46
+4040                         1                                        40                                                            18                                       68
+5050                         2                                        50                                                            18                                       62
+6060                         1                                        59                                                            18                                       18
+7070                         1                                         0                                                             8                                         19
+8080                         1                                        21                                                            33                                       42
+9090                         1                                        51                                                            18                                       51
+Average age: 41
